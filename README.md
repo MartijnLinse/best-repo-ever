@@ -1,3 +1,3 @@
 # best-repo-ever
 # This is additional text
-This is an extra line of code
+Nog meer wijzigingen just for the fun of it en merge conflict opgelost
